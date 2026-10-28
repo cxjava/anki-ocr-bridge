@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+dist/
+.venv/
+src/anki_ocr_bridge/user_files/*
+!src/anki_ocr_bridge/user_files/.gitkeep

@@ -1,0 +1,6 @@
+{
+    "package": "anki_ocr_bridge",
+    "name": "OCR Bridge",
+    "homepage": "https://github.com/cxjava/anki-ocr-bridge",
+    "min_point_version": 260800
+}

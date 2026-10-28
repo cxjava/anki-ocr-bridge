@@ -1,0 +1,1 @@
+{"config": {"host": "127.0.0.1", "port": 8866, "auto_start": true, "engine": "rapidocr", "language": "zh", "mirror": "tsinghua", "idle_timeout_minutes": 10, "paddleocr_lang": "ch"}}
